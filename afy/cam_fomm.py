@@ -3,7 +3,6 @@ from sys import platform as _platform
 import glob
 import yaml
 import time
-import requests
 
 import numpy as np
 import cv2
